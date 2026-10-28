@@ -55,3 +55,4 @@ Dynamic and visionary **Serial Entrepreneur and Prolific Inventor** with over 40
 * **Arabic:** Native
 * **French:** Fluent
 * **English:** Professional Working Proficiency
+![Nitrozine Smart NPK](slogan 1.jpg)
