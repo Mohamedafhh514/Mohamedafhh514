@@ -29,3 +29,5 @@ We are currently opening our **Seed Funding Round** to finance the construction 
 
 ## 🌐 LANGUAGES
 - **Arabic:** Native | **French:** Fluent | **English:** Professional Working Proficiency
+
+![Nitrozine Smart NPK](slogan 1.jpg)
