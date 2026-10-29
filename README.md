@@ -2,12 +2,8 @@
 ### **Serial Entrepreneur & R&D Specialist / Inventor**
 📍 Tunis, Tunisia | ✉ maknifr@yahoo.fr
 
-## 💼 PROFESSIONAL SUMMARY
-Dynamic and visionary Serial Entrepreneur and Prolific Inventor with over 40 years of hands-on experience founding, managing, and scaling businesses across diverse sectors.
-
 ## 💼 INVESTOR RELATIONS: NITROZINE PK PILOT PLANT
 We are currently opening our **Seed Funding Round** to finance the construction of our first industrial automated pilot plant for **NITROZINE PK**.
-
 - **The Product:** A revolutionary non-explosive, polymeric slow-release NPK granular fertilizer protected under Geopac patents.
 - **Core IP Assets:** This funding directly leverages our two officially patented global innovations: **Nitrozine** (2014) and **Nitrozine PK** (2026).
 - **Other Projects:** All other proprietary chemical and mechanical engineering frameworks (Vapor Systems, Hydraulic R&D) are strictly managed as independent R&D pipeline assets.
