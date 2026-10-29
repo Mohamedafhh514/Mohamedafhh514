@@ -4,9 +4,15 @@
 
 ## 💼 INVESTOR RELATIONS: NITROZINE PK PILOT PLANT
 We are currently opening our **Seed Funding Round** to finance the construction of our first industrial automated pilot plant for **NITROZINE PK**.
+
+👉 **[Click here to read the full Executive Summary](https://github.com)**
+
+### **Investment Highlights:**
 - **The Product:** A revolutionary non-explosive, polymeric slow-release NPK granular fertilizer protected under Geopac patents.
 - **Core IP Assets:** This funding directly leverages our two officially patented global innovations: **Nitrozine** (2014) and **Nitrozine PK** (2026).
 - **Other Projects:** All other proprietary chemical and mechanical engineering frameworks (Vapor Systems, Hydraulic R&D) are strictly managed as independent R&D pipeline assets.
+
+Interested Venture Capital funds, corporate partners, and institutional investors can request our **Executive Summary, Financial Model, and Pitch Deck** by contacting me directly below.
 
 ## 🧪 PATENTS & INNOVATIONS (R&D)
 - **Founder & Lead Inventor** | *Geopac (Patent Management & IP Protection)* **(2026 - Present)**
@@ -27,7 +33,7 @@ We are currently opening our **Seed Funding Round** to finance the construction 
 - **Professional Training: Sales Force** | Paris, France *(1989 - 1990)*
 - **Diploma: Mathematics & Sciences** | Hedy Chaker School (Sfax & Tunis) *(1981 - 1989)*
 
-## 🌐 LANGUAGES
-- **Arabic:** Native | **French:** Fluent | **English:** Professional Working Proficiency
+## 📬 Contact & Collaboration
+- **Email:** maknifr@yahoo.fr
 
 ![Nitrozine Smart NPK](slogan 1.jpg)
