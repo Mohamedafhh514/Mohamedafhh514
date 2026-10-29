@@ -7,6 +7,7 @@ We are currently opening our **Seed Funding Round** to finance the construction 
 
 👉 **[Click here to read the full Executive Summary](https://github.com)**
 
+
 ### **Investment Highlights:**
 - **The Product:** A revolutionary non-explosive, polymeric slow-release NPK granular fertilizer protected under Geopac patents.
 - **Core IP Assets:** This funding directly leverages our two officially patented global innovations: **Nitrozine** (2014) and **Nitrozine PK** (2026).
