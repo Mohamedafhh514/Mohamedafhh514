@@ -5,7 +5,8 @@
 ## 💼 INVESTOR RELATIONS: NITROZINE PK PILOT PLANT
 We are currently opening our **Seed Funding Round** to finance the construction of our first industrial automated pilot plant for **NITROZINE PK**.
 
-👉 **[Click here to read the full Executive Summary](https://github.com)**
+👉 **[Click here to read the full Executive Summary](investor.md)**
+
 
 
 ### **Investment Highlights:**
