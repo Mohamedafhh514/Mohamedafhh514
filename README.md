@@ -36,4 +36,5 @@ Interested Venture Capital funds, corporate partners, and institutional investor
 ## 📬 Contact & Collaboration
 - **Email:** maknifr@yahoo.fr
 
-![Nitrozine Smart NPK](slogan 1.jpg)
+<img src="slogan 1.jpg" alt="Nitrozine Smart NPK" width="100%">
+
